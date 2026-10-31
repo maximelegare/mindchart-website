@@ -1,0 +1,1 @@
+[{"slug":"imageUploader","config":{"image":{"maxFileSize":"8MB","maxFileCount":8,"minFileCount":1,"contentDisposition":"inline"}}},{"slug":"videoUploader","config":{"video":{"maxFileSize":"64MB","maxFileCount":4,"minFileCount":1,"contentDisposition":"inline"}}}]
